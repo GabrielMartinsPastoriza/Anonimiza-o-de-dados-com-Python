@@ -1,7 +1,7 @@
 # Anonimizando-dados-com-Python
 
-Recentemente fiz parte de um treinamento da qualifacti de anonimização de dados com python, e gostaria de compartilhar com vocês, porém decidi fazer um pente fino sobre oq é anonimização de forma geral, então além de uma ideia de projeto para praticar, você já vai sair daqui entendendo o porque desse projeto fazer sentido. Vou dividir entre teoria e prática. fique a vontade para percorrer o que quiser
-Teoria
+Recentemente fiz parte de um treinamento da qualifacti de anonimização de dados com python, e gostaria de compartilhar com vocês, porém decidi fazer um pente fino sobre oq é anonimização de forma geral, então além de uma ideia de projeto para praticar, você já vai sair daqui entendendo o porque desse projeto fazer sentido. 
+
 A Lei no. 13.709/2018, Lei Geral de Proteção de Dados Pessoais (LGPD), é o que garante os princípios da proteção de dados, é essencial que uma empresa esteja em conformidade com a LGPD, isso significa para o cliente(Você) que seus dados:
 -Estarão como você os deixou e em caso de alteração ou destruição, eles deverão ser recuperados e restaurados;
 -Somente você ou pessoal autorizado poderão ter acesso aos seus dados, que estarão resguardados com as medidas cabíveis de segurança;
