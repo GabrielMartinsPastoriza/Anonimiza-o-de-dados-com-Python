@@ -14,3 +14,5 @@ Fonte: https://blog.almeidamatheus.me/post/seguranca-da-informacao/
 Uma série de regulamentações abrange a LGPD na qual irei deixar o link .
 A Anonimização de dados
 A art.5 da LGPD nos diz que o ciclo do uso de dados dever ter começo, meio e fim, e esse ciclo deve ser definido previamente, e dentre esses processos temos a anonimização dos dados, onde o indivíduo não pode ser identificado por aquele dado, por qualquer motivo que seja, e caso por qualquer tipo de meio ele se torne identificável ou identificado, então os dados estão pseudo anonimizados e a organização responsável por guardar aquele dado, sujeita à disciplina da lei.
+
+Link de como usar o script e os requisitos estão no meu [linkedin](https://www.linkedin.com/pulse/id%25C3%25A9ia-de-projeto-anonimizando-dados-com-python-gabriel-martins-wnqwf/?trackingId=8Yr93Gk6SEqHPTN1W1w8VQ%3D%3D).
